@@ -6,7 +6,16 @@ CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
 
+
+# testing 
+#testing 
+#testing 
+
 def get_filters():
+	
+	
+	
+	
     """
     Asks user to specify a city, month, and day to analyze.
     Returns:
@@ -191,7 +200,9 @@ def main():
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
-
+ # testing 
+ # display testing
+	 # display display testing
 
 if __name__ == "__main__":
 	main()
